@@ -1,0 +1,4 @@
+pip install pandas
+pip install numpy
+pip install pm4py
+pip install sklearn
