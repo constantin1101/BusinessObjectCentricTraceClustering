@@ -39,8 +39,8 @@ def futureWorkDistance(first_BO, second_BO, first_A, second_A, first_R, second_R
     for j in range(len(second_BO)+1):
         matrix[0, j] = j
     
-    for i in range(len(first_BO)+1): 
-        for j in range(len(second_BO)+1): 
+    for i in range(1,len(first_BO)+1): 
+        for j in range(1,len(second_BO)+1): 
             if first_BO[i-1] == second_BO[j-1]:
                 if first_A[i-1] != second_A[j-1]:
                     if first_R[i-1] != second_R[j-1]:
