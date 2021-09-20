@@ -1,8 +1,10 @@
 # BusinessObjectCentricTraceClustering
+writte by Constantin Ernstberger
+
 
 # About
 The approach is described in:
-Ernstberger, Constantin Hannes. (2021). Business Object-centric Trace Clustering.
+Ernstberger, Constantin. (2021). Business Object-centric Trace Clustering.
 University of Mannheim
 
 # Installation
