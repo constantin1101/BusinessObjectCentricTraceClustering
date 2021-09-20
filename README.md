@@ -1,5 +1,5 @@
 # BusinessObjectCentricTraceClustering
-writte by Constantin Ernstberger
+written by Constantin Ernstberger
 
 
 # About
