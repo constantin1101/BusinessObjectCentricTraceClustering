@@ -8,7 +8,7 @@ University of Mannheim
 # Installation
 - Setup Python 3.9 or later
 - Clone GitHub repository
-- Install package from requirements.txt
+- Install packages from requirements.txt
 
 # Usage
 - Open kmeans.py
