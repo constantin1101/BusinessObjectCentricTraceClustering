@@ -4,8 +4,7 @@ written by Constantin Ernstberger
 
 # About
 The approach is described in:
-Ernstberger, Constantin. (2021). Business Object-centric Trace Clustering.
-University of Mannheim
+Ernstberger, Constantin. (2021). Business Object-centric Trace Clustering. University of Mannheim.
 
 # Installation
 - Setup Python 3.9 or later
