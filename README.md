@@ -9,6 +9,7 @@ Ernstberger, Constantin. (2021). Business Object-centric Trace Clustering. Unive
 # Installation
 - Setup Python 3.9 or later
 - Clone GitHub repository
+- Create virtual environment
 - Install packages from requirements.txt
 
 # Usage
