@@ -18,4 +18,4 @@ Ernstberger, Constantin. (2021). Business Object-centric Trace Clustering. Unive
 - Run file via command line: python kmeans.py
 
 # Evaluation 
-Our approach was evaluated on a range of real worl event logs available from the 4TU data repository: https://data.4tu.nl/search?q=:keyword:%20%22real%20life%20event%20logs%22
+Our approach was evaluated on a range of real world event logs available from the 4TU data repository: https://data.4tu.nl/search?q=:keyword:%20%22real%20life%20event%20logs%22
